@@ -81,10 +81,10 @@ Create a .env file in the project root and add your API keys:
   | Embedding Model    | Azure OpenAI text-ada-002|
 
 ## 🏆 Why Use MiniGPT?
-    - Azure OpenAI Security – No data leaves the Azure environment.
-    - RAG-Based Document Q&A – Ask AI questions about uploaded PDFs.
-    - Enterprise-Ready – Designed for organizations requiring data privacy.
-    - Fast & Scalable – Uses Pinecone for real-time information retrieval.
+- Azure OpenAI Security – No data leaves the Azure environment.
+- RAG-Based Document Q&A – Ask AI questions about uploaded PDFs.
+- Enterprise-Ready – Designed for organizations requiring data privacy.
+- Fast & Scalable – Uses Pinecone for real-time information retrieval.
 
 ## 📜 License
 This project is open-source and available for modification.
