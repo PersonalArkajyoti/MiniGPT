@@ -34,8 +34,8 @@ Ensure you have the following installed:
   - Pinecone API Key
   - Pip & Virtual Environment (Recommended)
 ### 2️⃣ Clone the Repository
-    git clone https://github.com/your-username/MiniGPT-Azure-Pinecone.git
-    cd MiniGPT-Azure-Pinecone
+    git clone https://github.com/PersonalArkajyoti/MiniGPT.git
+    cd MiniGPT
 ### 3️⃣ Create a Virtual Environment (Recommended)
     python -m venv venv
     source venv/bin/activate  # On macOS/Linux
@@ -45,7 +45,7 @@ Ensure you have the following installed:
   pip install -r requirements.txt
   
 ### 5️⃣ Set Up Environment Variables
-    Create a .env file in the project root and add your API keys:
+Create a .env file in the project root and add your API keys:
     
       AZURE_OPENAI_KEY=your_azure_openai_key
       AzureOpenAI_Endpoint=your_azure_endpoint
