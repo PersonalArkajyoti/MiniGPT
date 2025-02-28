@@ -15,10 +15,15 @@ Organizations working with sensitive data often need AI-powered assistants but c
 
 ## 🛠 Features
 	✅Azure OpenAI-Powered Chatbot – Ensures all AI interactions remain within Azure’s secure environment.
+ 
 	✅Chat with PDFs – Upload a PDF and query its contents using AI-powered search.
+ 
 	✅Pinecone Vector Search – Implements RAG to improve AI-generated answers with contextual knowledge from documents.
+ 
 	✅Multi-Mode Chat – Choose between General Chat and Chat with PDF for AI responses.
+ 
 	✅FastAPI Backend + Streamlit UI – Easy-to-use interface for quick AI interactions.
+ 
 	✅Data Privacy & Security – Unlike OpenAI’s ChatGPT, all data remains within Azure’s cloud infrastructure.
 
 ## 🚀 Installation & Setup
